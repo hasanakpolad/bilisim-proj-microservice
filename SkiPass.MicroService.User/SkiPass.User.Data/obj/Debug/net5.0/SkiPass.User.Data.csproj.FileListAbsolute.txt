@@ -1,0 +1,15 @@
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.csproj.AssemblyReference.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.AssemblyInfoInputs.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.AssemblyInfo.cs
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.csproj.CoreCompileInputs.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\bin\Debug\net5.0\SkiPass.User.Data.deps.json
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\bin\Debug\net5.0\SkiPass.User.Data.runtimeconfig.json
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\bin\Debug\net5.0\SkiPass.User.Data.runtimeconfig.dev.json
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\bin\Debug\net5.0\SkiPass.User.Data.dll
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\bin\Debug\net5.0\SkiPass.User.Data.pdb
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.dll
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\refint\SkiPass.User.Data.dll
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.pdb
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\SkiPass.User.Data.genruntimeconfig.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.Data\obj\Debug\net5.0\ref\SkiPass.User.Data.dll

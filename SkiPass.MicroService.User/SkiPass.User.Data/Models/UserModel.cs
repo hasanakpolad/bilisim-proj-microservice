@@ -1,4 +1,5 @@
-﻿using SkiPass.User.Data.Enums;
+﻿using MongoDB.Bson.Serialization.Attributes;
+using SkiPass.User.Data.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,7 @@ namespace SkiPass.User.Data.Models
 {
     public class UserModel
     {
+        [BsonId]
         public int Id { get; set; }
         public string Name { get; set; }
         public string Email { get; set; }

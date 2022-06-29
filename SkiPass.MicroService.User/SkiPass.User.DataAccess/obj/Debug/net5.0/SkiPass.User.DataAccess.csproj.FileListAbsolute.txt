@@ -1,0 +1,12 @@
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.csproj.AssemblyReference.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.AssemblyInfoInputs.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.AssemblyInfo.cs
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\bin\Debug\net5.0\SkiPass.User.DataAccess.deps.json
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\bin\Debug\net5.0\SkiPass.User.DataAccess.dll
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\bin\Debug\net5.0\SkiPass.User.DataAccess.pdb
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.dll
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\refint\SkiPass.User.DataAccess.dll
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\SkiPass.User.DataAccess.pdb
+C:\Users\P1864\Desktop\skipass\bilisim-proj-microservice\SkiPass.MicroService.User\SkiPass.User.DataAccess\obj\Debug\net5.0\ref\SkiPass.User.DataAccess.dll

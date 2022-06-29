@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SkiPass.User.DataAccess\SkiPass.User.DataAccess.csproj" />
+    <ProjectReference Include="..\SkiPass.User.Data\SkiPass.User.Data.csproj" />
+  </ItemGroup>
+
+</Project>

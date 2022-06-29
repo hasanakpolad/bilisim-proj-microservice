@@ -31,7 +31,7 @@ namespace SkiPass.User.DataAccess.MongoRepository
         #region Methods
         public void GetDatabase()
         {
-            _client = new MongoClient("mongodb://root:root@127.0.0.1:27017");
+            _client = new MongoClient("mongodb://root:root@127.0.0.1:18001");
             _database = _client.GetDatabase("skipassuser");
         }
 

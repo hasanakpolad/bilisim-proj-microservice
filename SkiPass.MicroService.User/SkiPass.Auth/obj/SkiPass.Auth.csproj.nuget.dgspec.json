@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.Auth\\SkiPass.Auth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.Auth\\SkiPass.Auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.Auth\\SkiPass.Auth.csproj",
+        "projectName": "SkiPass.Auth",
+        "projectPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.Auth\\SkiPass.Auth.csproj",
+        "packagesPath": "C:\\Users\\P1864\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.Auth\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\P1864\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.DataAccess\\SkiPass.User.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.DataAccess\\SkiPass.User.DataAccess.csproj"
+              },
+              "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.Data\\SkiPass.User.Data.csproj": {
+                "projectPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.Data\\SkiPass.User.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.DataAccess\\SkiPass.User.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.DataAccess\\SkiPass.User.DataAccess.csproj",
+        "projectName": "SkiPass.User.DataAccess",
+        "projectPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.DataAccess\\SkiPass.User.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\P1864\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\P1864\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.Data\\SkiPass.User.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.Data\\SkiPass.User.Data.csproj",
+        "projectName": "SkiPass.User.Data",
+        "projectPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.Data\\SkiPass.User.Data.csproj",
+        "packagesPath": "C:\\Users\\P1864\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\P1864\\Desktop\\skipass\\bilisim-proj-microservice\\SkiPass.MicroService.User\\SkiPass.User.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\P1864\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.16.1, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

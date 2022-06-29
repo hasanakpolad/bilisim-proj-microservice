@@ -8,6 +8,7 @@ namespace SkiPass.User.Controllers
     [Route("api/[controller]")]
     public class UserController : ControllerBase
     {
+        [HttpGet(nameof(GetAll))]
         public IActionResult GetAll()
         {
             using (var repo = new MongoRepository<UserModel>())
@@ -18,6 +19,7 @@ namespace SkiPass.User.Controllers
                 return Ok(data);
             }
         }
+        [HttpPost(nameof(Get))]
         public IActionResult Get(UserModel model)
         {
             using (var repo = new MongoRepository<UserModel>())
@@ -27,6 +29,7 @@ namespace SkiPass.User.Controllers
                 return Ok(data);
             }
         }
+        [HttpPost(nameof(Add))]
         public IActionResult Add(UserModel model)
         {
             using (var repo = new MongoRepository<UserModel>())
@@ -43,6 +46,7 @@ namespace SkiPass.User.Controllers
                 }
             }
         }
+        [HttpPut(nameof(Update))]
         public IActionResult Update(UserModel model)
         {
             using (var repo = new MongoRepository<UserModel>())
@@ -59,6 +63,7 @@ namespace SkiPass.User.Controllers
                 }
             }
         }
+        [HttpDelete(nameof(Delete))]
         public IActionResult Delete(UserModel model)
         {
             using (var repo = new MongoRepository<UserModel>())
@@ -75,9 +80,14 @@ namespace SkiPass.User.Controllers
                 }
             }
         }
+        [HttpGet(nameof(Count))]
         public IActionResult Count()
         {
-            return Ok();
+            using (var repo = new MongoRepository<UserModel>())
+            {
+                //repo.Count();
+            return Ok(repo.Count());
+            }
         }
     }
 }
